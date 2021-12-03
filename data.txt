@@ -1,4 +1,3 @@
-NODES 15
 alma
 alpena
 ann_arbor
@@ -14,8 +13,7 @@ mackinaw_city
 marquette
 saginaw
 traverse_city
-
-EDGES 19
+^ Above are the nodes, below are the distances to the edges
 benton_harbor kalamazoo 52
 kalamazoo ann_arbor 99
 ann_arbor detroit 42
