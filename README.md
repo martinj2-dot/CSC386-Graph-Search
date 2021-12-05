@@ -1,2 +1,2 @@
-# CSC386-Wall-Follower
-Template code for CSC 386 Wall Follower Project
+# CSC386-Graph-Search
+Final for CSC 386. Assignment called A00 Graph Search
